@@ -63,7 +63,7 @@
         "wk:page":"Tipuani"
     },
     "wof:country":"BO",
-    "wof:geomhash":"40b33a22a25501cb26e8303e7d218675",
+    "wof:geomhash":"64ee4c5f842c52992b089c19a06d83ca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,5 +89,5 @@
     -68.0,
     -15.55
 ],
-  "geometry": {"coordinates":[-68.0,-15.55],"type":"Point"}
+  "geometry": {"coordinates":[-68,-15.55],"type":"Point"}
 }

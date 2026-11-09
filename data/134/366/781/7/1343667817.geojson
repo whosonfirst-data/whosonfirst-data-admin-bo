@@ -51,7 +51,7 @@
         "wk:page":"Calacoto"
     },
     "wof:country":"BO",
-    "wof:geomhash":"277b679d78bf32bad3f70bee246ef675",
+    "wof:geomhash":"9db85f9b3568b2af231794f9e66350c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,5 +77,5 @@
     -68.63518,
     -17.28352000000001
 ],
-  "geometry": {"coordinates":[-68.63518000000001,-17.28352000000001],"type":"Point"}
+  "geometry": {"coordinates":[-68.63518,-17.28352],"type":"Point"}
 }

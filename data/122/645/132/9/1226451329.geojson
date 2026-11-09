@@ -57,7 +57,7 @@
         "wk:page":"Toco%2C_Cochabamba"
     },
     "wof:country":"BO",
-    "wof:geomhash":"bfdcf19d769e1753ff2b3cb77a240cff",
+    "wof:geomhash":"40dc1a549e1ffff0323e4fdf62fdab18",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -83,5 +83,5 @@
     -65.9,
     -17.61667000000001
 ],
-  "geometry": {"coordinates":[-65.90000000000001,-17.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.9,-17.61667],"type":"Point"}
 }

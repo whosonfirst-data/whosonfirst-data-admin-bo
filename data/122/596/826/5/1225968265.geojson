@@ -64,7 +64,7 @@
         "wk:page":"Amarete"
     },
     "wof:country":"BO",
-    "wof:geomhash":"9e2d45c2a2748a444e23840fca752f76",
+    "wof:geomhash":"c98fc2f828c36cd5271742a10d396c96",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -92,5 +92,5 @@
     -68.98461999999999,
     -15.23675
 ],
-  "geometry": {"coordinates":[-68.98461999999999,-15.23675],"type":"Point"}
+  "geometry": {"coordinates":[-68.98462,-15.23675],"type":"Point"}
 }

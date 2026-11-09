@@ -74,7 +74,7 @@
         "wk:page":"Huachacalla"
     },
     "wof:country":"BO",
-    "wof:geomhash":"277c140de39910b7c67f4fc0a13aef37",
+    "wof:geomhash":"9f0f8dc0d080872861d41a429e0dbb95",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,5 +100,5 @@
     -68.26156999999999,
     -18.79298
 ],
-  "geometry": {"coordinates":[-68.26156999999999,-18.79298],"type":"Point"}
+  "geometry": {"coordinates":[-68.26157,-18.79298],"type":"Point"}
 }

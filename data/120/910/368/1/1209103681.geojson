@@ -51,7 +51,7 @@
         "wk:page":"Bolpebra"
     },
     "wof:country":"BO",
-    "wof:geomhash":"d0343d68a0e9f8a6d45a2f7e65c3235d",
+    "wof:geomhash":"3509ad6f246416c99e31d9b43e1ce94a",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -74,5 +74,5 @@
     -69.56369000000001,
     -10.94894
 ],
-  "geometry": {"coordinates":[-69.56369000000001,-10.94894],"type":"Point"}
+  "geometry": {"coordinates":[-69.56369,-10.94894],"type":"Point"}
 }

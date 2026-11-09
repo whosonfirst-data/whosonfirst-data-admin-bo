@@ -63,7 +63,7 @@
         "wk:page":"Alalay"
     },
     "wof:country":"BO",
-    "wof:geomhash":"ec4089af06ac94d799e5896043432a6e",
+    "wof:geomhash":"83c54e6c48cff9fa7fdfb216bda6e8d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,5 +89,5 @@
     -65.68333,
     -17.68332999999999
 ],
-  "geometry": {"coordinates":[-65.68333,-17.68332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-65.68333,-17.68333],"type":"Point"}
 }

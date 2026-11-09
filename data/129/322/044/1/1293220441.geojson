@@ -48,7 +48,7 @@
         "wk:page":"Yota%C3%BA"
     },
     "wof:country":"BO",
-    "wof:geomhash":"58b5bf71ad9ef5365cf56baae9a4a6c2",
+    "wof:geomhash":"7bec344136da103972c6f0bbf9afe1e0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -74,5 +74,5 @@
     -63.05369,
     -16.09287999999999
 ],
-  "geometry": {"coordinates":[-63.05369,-16.09287999999999],"type":"Point"}
+  "geometry": {"coordinates":[-63.05369,-16.09288],"type":"Point"}
 }

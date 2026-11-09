@@ -63,7 +63,7 @@
         "wk:page":"Caracollo"
     },
     "wof:country":"BO",
-    "wof:geomhash":"ebba3d1697a031c9536ad1a8e5b79fde",
+    "wof:geomhash":"0e0e838368de673cae7629e2abe15593",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,5 +89,5 @@
     -67.2163,
     -17.63097999999999
 ],
-  "geometry": {"coordinates":[-67.2163,-17.63097999999999],"type":"Point"}
+  "geometry": {"coordinates":[-67.2163,-17.63098],"type":"Point"}
 }

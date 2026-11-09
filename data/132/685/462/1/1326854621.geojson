@@ -63,7 +63,7 @@
         "wk:page":"Chara%C3%B1a"
     },
     "wof:country":"BO",
-    "wof:geomhash":"aa02720f22dfcd876a18b5c952875e69",
+    "wof:geomhash":"13a4b95503a2c565acad30462910acdf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,5 +89,5 @@
     -69.4454,
     -17.59267999999999
 ],
-  "geometry": {"coordinates":[-69.44540000000001,-17.59267999999999],"type":"Point"}
+  "geometry": {"coordinates":[-69.4454,-17.59268],"type":"Point"}
 }

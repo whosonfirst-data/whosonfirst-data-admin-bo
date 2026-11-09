@@ -48,7 +48,7 @@
         "wk:page":"Puerto_Siles"
     },
     "wof:country":"BO",
-    "wof:geomhash":"878b67c37cf72f9a0feaa8fc5a5e4fa4",
+    "wof:geomhash":"0e056c87a3c133ab768b8870d83121da",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -74,5 +74,5 @@
     -65.11506999999999,
     -12.81054
 ],
-  "geometry": {"coordinates":[-65.11506999999999,-12.81054],"type":"Point"}
+  "geometry": {"coordinates":[-65.11507,-12.81054],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "wk:page":"Santa_Ana_del_Yacum%E2%80%A6"
     },
     "wof:country":"BO",
-    "wof:geomhash":"952fb2339683da0d6359f1c473a2d5cf",
+    "wof:geomhash":"2aac71090bd0881023532fc15aeb4fdc",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -69,5 +69,5 @@
     -65.42688000000001,
     -13.74406
 ],
-  "geometry": {"coordinates":[-65.42688000000001,-13.74406],"type":"Point"}
+  "geometry": {"coordinates":[-65.42688,-13.74406],"type":"Point"}
 }

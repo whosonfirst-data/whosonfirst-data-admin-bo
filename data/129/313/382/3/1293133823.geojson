@@ -58,7 +58,7 @@
         "wk:page":"Umanata_Municipality"
     },
     "wof:country":"BO",
-    "wof:geomhash":"feb6729056ad1d352e4b5c39bbfbaaec",
+    "wof:geomhash":"deda2340aa1b9efc4244493f0c9e8436",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,5 +84,5 @@
     -69.13013000000001,
     -15.46876
 ],
-  "geometry": {"coordinates":[-69.13013000000001,-15.46876],"type":"Point"}
+  "geometry": {"coordinates":[-69.13013,-15.46876],"type":"Point"}
 }

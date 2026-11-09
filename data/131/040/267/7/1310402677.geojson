@@ -87,7 +87,7 @@
         "wk:page":"Cotoca"
     },
     "wof:country":"BO",
-    "wof:geomhash":"ade07ae0394634ae900dbbc20b32158e",
+    "wof:geomhash":"5d9b2309e304f9b7de719fccea3a2994",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,5 +113,5 @@
     -62.83442,
     -17.74958999999999
 ],
-  "geometry": {"coordinates":[-62.83442,-17.74958999999999],"type":"Point"}
+  "geometry": {"coordinates":[-62.83442,-17.74959],"type":"Point"}
 }

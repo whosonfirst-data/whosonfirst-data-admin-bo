@@ -54,7 +54,7 @@
         "wk:page":"Achiri"
     },
     "wof:country":"BO",
-    "wof:geomhash":"667161d8e82304ed4e631fb0bc4b60d0",
+    "wof:geomhash":"305bfc034608e1c4aec7e32d753681a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,5 +80,5 @@
     -69.0,
     -17.21667
 ],
-  "geometry": {"coordinates":[-69.0,-17.21667],"type":"Point"}
+  "geometry": {"coordinates":[-69,-17.21667],"type":"Point"}
 }

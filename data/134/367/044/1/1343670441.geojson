@@ -71,7 +71,7 @@
         "wk:page":"Tapacar%C3%AD"
     },
     "wof:country":"BO",
-    "wof:geomhash":"28bd97420d0f39a0d7091c81150e55e5",
+    "wof:geomhash":"17d4f744519f45abf5127b69b032b7cb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,5 +97,5 @@
     -66.62064000000001,
     -17.51607000000001
 ],
-  "geometry": {"coordinates":[-66.62064000000001,-17.51607000000001],"type":"Point"}
+  "geometry": {"coordinates":[-66.62064,-17.51607],"type":"Point"}
 }

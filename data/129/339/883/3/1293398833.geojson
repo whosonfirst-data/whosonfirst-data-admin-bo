@@ -58,7 +58,7 @@
         "wk:page":"Cuchumuela"
     },
     "wof:country":"BO",
-    "wof:geomhash":"2c556dc8c7fa0afba5f44b3d0e82ce0f",
+    "wof:geomhash":"76ad49c6f684f6f99d6fbc2e0217ccde",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,5 +84,5 @@
     -65.78333,
     -17.63332999999999
 ],
-  "geometry": {"coordinates":[-65.78333000000001,-17.63332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-65.78333,-17.63333],"type":"Point"}
 }

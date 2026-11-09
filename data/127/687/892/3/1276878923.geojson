@@ -51,7 +51,7 @@
         "wk:page":"Ocobaya"
     },
     "wof:country":"BO",
-    "wof:geomhash":"d271ac4853e5a820bca8dc553a716ab9",
+    "wof:geomhash":"365dc6b9bad355b67b29f932f4633546",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,5 +77,5 @@
     -67.51666999999999,
     -16.41667
 ],
-  "geometry": {"coordinates":[-67.51666999999999,-16.41667],"type":"Point"}
+  "geometry": {"coordinates":[-67.51667,-16.41667],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Presto%2C_Bolivia"
     },
     "wof:country":"BO",
-    "wof:geomhash":"3cb6390b2c9a8eb935faa7daf493fcf2",
+    "wof:geomhash":"cec48818a5596f42f82dce0ff37c9133",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,5 +77,5 @@
     -64.93916999999999,
     -18.92944
 ],
-  "geometry": {"coordinates":[-64.93916999999999,-18.92944],"type":"Point"}
+  "geometry": {"coordinates":[-64.93917,-18.92944],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Puerto_Busch"
     },
     "wof:country":"BO",
-    "wof:geomhash":"b8b5f18559fdb94dcf49b26d48f0441c",
+    "wof:geomhash":"704c786d015bd5ec9e7fb422de3ece7a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,5 +96,5 @@
     -57.96666999999999,
     -20.03333
 ],
-  "geometry": {"coordinates":[-57.96666999999999,-20.03333],"type":"Point"}
+  "geometry": {"coordinates":[-57.96667,-20.03333],"type":"Point"}
 }

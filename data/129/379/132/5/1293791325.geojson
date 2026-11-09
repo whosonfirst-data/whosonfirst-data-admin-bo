@@ -58,7 +58,7 @@
         "wk:page":"San_Ignacio_de_Moxos"
     },
     "wof:country":"BO",
-    "wof:geomhash":"081b42daca67df79ba39d97bcea9121f",
+    "wof:geomhash":"5fb73d0d60150a3c4913df13f89b562d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,5 +84,5 @@
     -65.64074000000001,
     -14.9947
 ],
-  "geometry": {"coordinates":[-65.64074000000001,-14.9947],"type":"Point"}
+  "geometry": {"coordinates":[-65.64074,-14.9947],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Alcal%C3%A1_(Tomina)"
     },
     "wof:country":"BO",
-    "wof:geomhash":"d90d98fdf7ea760202cc2a1973435413",
+    "wof:geomhash":"9dabe97ec86633b2721f1d588e636236",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,5 +77,5 @@
     -64.39135999999999,
     -19.36547
 ],
-  "geometry": {"coordinates":[-64.39135999999999,-19.36547],"type":"Point"}
+  "geometry": {"coordinates":[-64.39136,-19.36547],"type":"Point"}
 }

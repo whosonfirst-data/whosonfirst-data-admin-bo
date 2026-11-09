@@ -55,7 +55,7 @@
         "wk:page":"Quiabaya"
     },
     "wof:country":"BO",
-    "wof:geomhash":"fd047072e12aba1c4fb0b1c290846791",
+    "wof:geomhash":"b0abac6b8fd453afa1004346fcab4ee8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -68.76666999999999,
     -15.61667
 ],
-  "geometry": {"coordinates":[-68.76666999999999,-15.61667],"type":"Point"}
+  "geometry": {"coordinates":[-68.76667,-15.61667],"type":"Point"}
 }

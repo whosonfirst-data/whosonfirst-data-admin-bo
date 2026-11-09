@@ -63,7 +63,7 @@
         "wk:page":"Waldo_Ballivi%C3%A1n_Municipality"
     },
     "wof:country":"BO",
-    "wof:geomhash":"628fe2d11c720c659819657344f61605",
+    "wof:geomhash":"b7152a26329dd34a1914ac1ca3f0965b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,5 +89,5 @@
     -68.18843000000001,
     -17.08617000000001
 ],
-  "geometry": {"coordinates":[-68.18843000000001,-17.08617000000001],"type":"Point"}
+  "geometry": {"coordinates":[-68.18843,-17.08617],"type":"Point"}
 }

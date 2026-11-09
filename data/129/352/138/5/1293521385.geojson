@@ -42,7 +42,7 @@
         "wk:page":"Salinas_de_Garci_Mendoza"
     },
     "wof:country":"BO",
-    "wof:geomhash":"117cdf684db0797a9bb2843e465773ff",
+    "wof:geomhash":"d5dee48fc73b1ac3730b23b596c041d3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,5 +68,5 @@
     -67.67518000000001,
     -19.63721
 ],
-  "geometry": {"coordinates":[-67.67518000000001,-19.63721],"type":"Point"}
+  "geometry": {"coordinates":[-67.67518,-19.63721],"type":"Point"}
 }

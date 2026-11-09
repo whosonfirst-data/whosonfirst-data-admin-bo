@@ -52,7 +52,7 @@
         "wk:page":"Cala_Cala"
     },
     "wof:country":"BO",
-    "wof:geomhash":"2325c74b2de703c256af74ebd3cca361",
+    "wof:geomhash":"1097f54a0e2c071c7d0de62efd36dc94",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -67.51666999999999,
     -17.48333
 ],
-  "geometry": {"coordinates":[-67.51666999999999,-17.48333],"type":"Point"}
+  "geometry": {"coordinates":[-67.51667,-17.48333],"type":"Point"}
 }

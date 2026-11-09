@@ -64,7 +64,7 @@
         "wk:page":"Santiago_de_Cotagaita"
     },
     "wof:country":"BO",
-    "wof:geomhash":"55f3b9b4ccf6292f911950e5195f8808",
+    "wof:geomhash":"c0303da131210f86c3b250653b2a3bba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -65.66086999999999,
     -20.81724
 ],
-  "geometry": {"coordinates":[-65.66086999999999,-20.81724],"type":"Point"}
+  "geometry": {"coordinates":[-65.66087,-20.81724],"type":"Point"}
 }

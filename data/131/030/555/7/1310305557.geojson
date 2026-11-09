@@ -53,7 +53,7 @@
         "wk:page":"Santiago_de_Machaca"
     },
     "wof:country":"BO",
-    "wof:geomhash":"e17632e5b1e8f228a47b91efb5599f7b",
+    "wof:geomhash":"de076c9387a5d3d5ad520ed87e73af36",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,5 +79,5 @@
     -69.26666999999999,
     -17.08333
 ],
-  "geometry": {"coordinates":[-69.26666999999999,-17.08333],"type":"Point"}
+  "geometry": {"coordinates":[-69.26667,-17.08333],"type":"Point"}
 }

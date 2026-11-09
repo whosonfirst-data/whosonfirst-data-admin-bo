@@ -55,7 +55,7 @@
         "wk:page":"Paurito"
     },
     "wof:country":"BO",
-    "wof:geomhash":"15be99a6f423db3876a136284f06e080",
+    "wof:geomhash":"b49078e3e709886e4d5fc16a85ad3914",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -83,5 +83,5 @@
     -62.96666999999999,
     -17.88332999999999
 ],
-  "geometry": {"coordinates":[-62.96666999999999,-17.88332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-62.96667,-17.88333],"type":"Point"}
 }

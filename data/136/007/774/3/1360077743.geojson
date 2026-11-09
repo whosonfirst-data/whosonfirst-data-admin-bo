@@ -44,7 +44,7 @@
         "gn:id":11504085
     },
     "wof:country":"BO",
-    "wof:geomhash":"6b66fcc4ffcc80f8736d10a7501f85aa",
+    "wof:geomhash":"7e65454ac3b2e91906810fbe06e60745",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,5 +70,5 @@
     -67.51848000000001,
     -10.76037
 ],
-  "geometry": {"coordinates":[-67.51848000000001,-10.76037],"type":"Point"}
+  "geometry": {"coordinates":[-67.51848,-10.76037],"type":"Point"}
 }

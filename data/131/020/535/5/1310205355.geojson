@@ -81,7 +81,7 @@
         "wk:page":"Pedro_Domingo_Murillo_Province"
     },
     "wof:country":"BO",
-    "wof:geomhash":"39ecc22f5e3c4a7e359f4fd7b4e98d58",
+    "wof:geomhash":"b5f8bf9f93710dbd6a5a9bc180d0915c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,5 +107,5 @@
     -67.88333,
     -17.63332999999999
 ],
-  "geometry": {"coordinates":[-67.88333,-17.63332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-67.88333,-17.63333],"type":"Point"}
 }

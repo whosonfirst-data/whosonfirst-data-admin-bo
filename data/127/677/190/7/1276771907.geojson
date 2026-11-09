@@ -70,7 +70,7 @@
         "wk:page":"Villa_Rivero"
     },
     "wof:country":"BO",
-    "wof:geomhash":"41c75a289e2ac93eadf0cd56409e1eb5",
+    "wof:geomhash":"b94f21ba33e54dd89975f45a4debee14",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,5 +96,5 @@
     -65.8,
     -17.61667000000001
 ],
-  "geometry": {"coordinates":[-65.8,-17.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.8,-17.61667],"type":"Point"}
 }
