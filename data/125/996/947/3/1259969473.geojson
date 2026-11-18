@@ -71,12 +71,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Pilcomayo"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u76ae\u79d1\u9a6c\u7ea6\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u76ae\u53ef\u99ac\u7d04\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":1259969473,
-    "wof:lastmodified":1636495327,
+    "wof:lastmodified":1794999722,
     "wof:name":"Pilcomayo",
     "wof:parent_id":421169235,
     "wof:placetype":"locality",

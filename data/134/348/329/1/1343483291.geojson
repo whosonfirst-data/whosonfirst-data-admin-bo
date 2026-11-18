@@ -98,12 +98,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Paraiba"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5e15\u62c9\u4f0a\u5df4\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5e15\u840a\u5df4\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -127,7 +121,7 @@
         }
     ],
     "wof:id":1343483291,
-    "wof:lastmodified":1636495168,
+    "wof:lastmodified":1794999722,
     "wof:name":"Paraiba",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",
